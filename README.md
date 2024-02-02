@@ -27,7 +27,7 @@
 <p align="left">
 <a href="https://twitter.com/ManeeshVure" target="blank"><img align="center" src="twitter.svg" alt="ManeeshVure" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/vure-maneesh/" target="blank"><img align="center" src="linkedin.svg" alt="vure-maneesh" height="30" width="40" /></a>
-<a href="https://www.facebook.com/nampallyharish143.L?mibextid=ZbWKwL" target="blank"><img align="center" src="facebook.svg" alt="vure-maneesh" height="30" width="40" /></a>
+<a href="https://www.facebook.com/vure.maneesh.L?mibextid=ZbWKwL" target="blank"><img align="center" src="facebook.svg" alt="vure.maneesh" height="30" width="40" /></a>
 <a href="https://instagram.com/vure_maneesh" target="blank"><img align="center" src="instagram.svg" alt="vure_maneesh height="30" width="40" /></a>
 </p>
 <h1 align="left">Tech Stack💻</h1>
