@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vure Maneesh</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="left" alt="coding" width="400" src="coder.gif">
-<p align="left"> <a href="https://twitter.com/nampallyharish6" target="blank"><img src="https://img.shields.io/twitter/follow/ManeeshVure?logo=twitter&style=for-the-badge" alt="ManeeshVure" /></a> </p>
+<p align="left"> <a href="https://twitter.com/ManeeshVure" target="blank"><img src="https://img.shields.io/twitter/follow/ManeeshVure?logo=twitter&style=for-the-badge" alt="ManeeshVure" /></a> </p>
 <h2 align="left">🔥Updates</h2>
 <h3>• 🌱 I’m currently learning
 <br>∆ Full Stack Web Development
