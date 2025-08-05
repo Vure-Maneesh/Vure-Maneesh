@@ -6,14 +6,10 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Vure-Maneesh&label=Profile%20views&color=0e75b6&style=flat" alt="Vure-Maneesh" /> </p>
 <h2 align="left">🔥Updates</h2>
 <h3>• 🌱 I’m currently learning
-<br>∆ Full Stack Web Development
-<br>∆ Prompt Engineering
-<br>∆ Data Science
-<br>∆ AI & ML
-<br>∆ UI/UX Design
-<br>∆ Cloud Computing</h3>
+Java 
 
-- 💬 Ask me about **C,C++,Java,Python,HTML,CSS,JS,SQL**
+
+- 💬 Ask me about **Java,Python,HTML,CSS,JS,SQL**
 
 - 📫 You can dm me at **maneeshvure1301@gmail.com**
 
