@@ -1,14 +1,16 @@
-<h1 align="center">Hi 👋, I'm Vure Maneesh</h1>
-<h3 align="center">💻 Software Developer | Java Backend Developer</h3>
+<h1 align="center">👋 Hey, I'm Vure Maneesh</h1>
+<h3 align="center">💻 Software Developer | Java Full Stack Developer</h3>
 
 ---
 
 ### 🚀 About Me  
 
-🌱 I’m currently learning and developing in **Java Backend Development**  
-💡 Ask me about **Java, Spring Boot, REST API, SQL, MySQL, HTML, CSS, JUnit**  
+🌱 I’m currently learning and developing in **Java Full Stack Development** using **Spring Boot** and **Angular**  
+💡 Passionate about building scalable, secure, and efficient web applications  
+🧠 I love solving backend challenges and continuously improving my coding skills  
+💬 Ask me about **Java, Spring Boot, REST API, SQL, MySQL, Angular, HTML, CSS, JUnit**  
 📧 Reach me at **maneeshvurer1301@gmail.com**  
-⚡ Fun fact: I think I’m funny 😅 but probably just an introvert learning to socialize through code 💬  
+⚡ Fun fact: I think I’m funny... but probably just an introvert with good humor 😅  
 
 ---
 
@@ -16,34 +18,67 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/vuremaneesh-0606t7299/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:maneeshvurer1301@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" alt="Gmail"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://twitter.com/maneeshvure" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
   <a href="https://www.instagram.com/vure_maneesh/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white" alt="Instagram"/>
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
 </p>
 
 ---
 
-### 🧠 Tech Stack  
+### ⚙️ Tech Stack  
 
-#### 🖥️ Languages  
+#### 💻 Languages  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,html,css,js,python,sql" />
+  <img src="https://skillicons.dev/icons?i=java,html,css,sql" />
 </p>
 
-#### ⚙️ Frameworks & Tools  
+#### 🌿 Backend Technologies  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=spring,postman,git,github,vscode,idea,mysql,hibernate" />
+  <img src="https://skillicons.dev/icons?i=spring,hibernate" />
 </p>
 
-#### 🎨 Design Tools  
+#### 🎨 Frontend Technologies  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=figma,xd,ps" />
+  <img src="https://skillicons.dev/icons?i=angular" />
 </p>
+
+#### 🧪 Tools & Testing  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,postman,mysql,vscode,idea" />
+</p>
+
+---
+
+### 📚 Featured Projects  
+
+#### 🧑‍💼 Employee Management System  
+🔹 **Tech:** Java, Spring Boot, REST API, MySQL  
+🔹 Built a complete CRUD-based backend system to manage employee data efficiently.  
+🔹 Features: Validation, Exception Handling, JUnit Testing.  
+🔗 [View Repository](https://github.com/Vure-Maneesh/EmployeeManagementSystem)
+
+---
+
+#### 🎓 Student Management Portal  
+🔹 **Tech:** Java, Spring Boot, Angular, SQL  
+🔹 Developed a full-stack web app for managing student records with a responsive Angular UI.  
+🔹 Features: RESTful API integration, frontend routing, and real-time data binding.  
+🔗 [View Repository](https://github.com/Vure-Maneesh/StudentManagement)
+
+---
+
+#### ⚙️ Cricket Player Info System  
+🔹 **Tech:** Java, Spring Boot, REST API, JSON, MySQL  
+🔹 REST-based API that fetches and manages player data dynamically using database integration.  
+🔗 [View Repository](https://github.com/Vure-Maneesh/CricketAPI)
 
 ---
 
@@ -60,20 +95,40 @@
 
 ---
 
-### 🏆 Profile Summary  
-
-- 💪 Constantly improving my **backend development** skills  
-- 🧩 Believer in **clean code** and **continuous learning**  
-- 🔍 Passionate about building **efficient, scalable, and testable** applications  
-- 🎯 Goal: To become a **proficient Java Backend Engineer** contributing to real-world products  
-
----
+### 🏆 GitHub Trophies  
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Java+Backend+Developer;Spring+Boot+%7C+REST+API+%7C+SQL;Clean+Code+Advocate;Continuous+Learner"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=vure-maneesh&theme=algolia&no-frame=true&no-bg=true&margin-w=15" />
 </p>
 
 ---
 
-⭐ **Thanks for stopping by!**  
+### 🌍 Contribution Graph  
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vure-maneesh&theme=react-dark&bg_color=0D1117&hide_border=true" alt="Contribution Graph"/>
+</p>
+
+---
+
+### 🧭 Profile Summary  
+
+- 💪 Currently learning **Java Full Stack with Angular**  
+- 🧩 Strong foundation in **Java Backend & RESTful API Development**  
+- 🧠 Focused on building **clean, secure, and maintainable codebases**  
+- 🎯 Striving to grow as a **Full Stack Engineer**  
+
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=650&lines=Java+Full+Stack+Developer;Spring+Boot+%7C+Angular+%7C+SQL;Backend+%26+Frontend+Enthusiast;Continuous+Learner+%26+Problem+Solver"/>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=vure-maneesh&label=Profile%20Views&color=blueviolet&style=flat-square" alt="Profile Views"/>
+</p>
+
+⭐ **Thanks for visiting my GitHub Profile!**  
 Let’s connect and grow together 🚀
