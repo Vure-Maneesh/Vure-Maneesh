@@ -57,30 +57,7 @@
 
 ---
 
-### 📚 Featured Projects  
 
-#### 🧑‍💼 Employee Management System  
-🔹 **Tech:** Java, Spring Boot, REST API, MySQL  
-🔹 Built a complete CRUD-based backend system to manage employee data efficiently.  
-🔹 Features: Validation, Exception Handling, JUnit Testing.  
-🔗 [View Repository](https://github.com/Vure-Maneesh/EmployeeManagementSystem)
-
----
-
-#### 🎓 Student Management Portal  
-🔹 **Tech:** Java, Spring Boot, Angular, SQL  
-🔹 Developed a full-stack web app for managing student records with a responsive Angular UI.  
-🔹 Features: RESTful API integration, frontend routing, and real-time data binding.  
-🔗 [View Repository](https://github.com/Vure-Maneesh/StudentManagement)
-
----
-
-#### ⚙️ Cricket Player Info System  
-🔹 **Tech:** Java, Spring Boot, REST API, JSON, MySQL  
-🔹 REST-based API that fetches and manages player data dynamically using database integration.  
-🔗 [View Repository](https://github.com/Vure-Maneesh/CricketAPI)
-
----
 
 ### 📊 GitHub Stats  
 
@@ -94,11 +71,7 @@
 </p>
 
 ---
-### 🏆 GitHub Trophies  
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Vure-Maneesh&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies"/>
-</p>
 
 ---
 
