@@ -10,7 +10,7 @@
 🧠 I love solving backend challenges and continuously improving my coding skills  
 💬 Ask me about **Java, Spring Boot, REST API, SQL, MySQL, Angular, HTML, CSS, JUnit**  
 📧 Reach me at **maneeshvurer1301@gmail.com**  
-⚡ Fun fact: I think I’m funny... but probably just an introvert with good humor 😅  
+ 
 
 ---
 
