@@ -32,7 +32,6 @@
 </p>
 
 ---
-
 ### ⚙️ Tech Stack  
 
 #### 💻 Languages  
@@ -42,7 +41,7 @@
 
 #### 🌿 Backend Technologies  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=spring,hibernate" />
+  <img src="https://skillicons.dev/icons?i=spring" />
 </p>
 
 #### 🎨 Frontend Technologies  
@@ -52,7 +51,8 @@
 
 #### 🧪 Tools & Testing  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,postman,mysql,vscode,idea" />
+  <img src="https://skillicons.dev/icons?i=git,postman,vscode,idea,mysql" />
+  <img src="https://img.shields.io/badge/Thunder%20Client-0078D7?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Thunder Client"/>
 </p>
 
 ---
