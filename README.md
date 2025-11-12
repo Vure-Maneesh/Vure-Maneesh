@@ -51,11 +51,11 @@
 
 #### 🧪 Tools & Testing  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,postman,vscode,idea,mysql" />
+  <img src="https://skillicons.dev/icons?i=git,postman,mysql,vscode,idea" />
   <img src="https://img.shields.io/badge/Thunder%20Client-0078D7?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Thunder Client"/>
+  <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" alt="Eclipse IDE"/>
 </p>
 
----
 
 
 
